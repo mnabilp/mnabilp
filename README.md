@@ -11,7 +11,7 @@ and visualization. Highly motivated to turn data into meaningful insights that s
 making. 
 
  ---
- 
+
 **Languages and Tools:**
 <p align="center">
   <div align="center">
