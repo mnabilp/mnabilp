@@ -1,59 +1,117 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<div align="center">
 
-I'm Nabil, an An Informatics graduate with a solid background in Data Science and Machine Learning.
+# Hi there, I'm Nabil Nufail 👋
 
- ---
- 
-I am Experienced in implementing classification algorithms and Natural Language Processing (NLP) for sentiment analysis during
-undergraduate thesis research. Recently participated in enhancing my analytical capabilities through an intensive full-time Data
-Science Bootcamp in Hacktiv8, working with Python, SQL, Pandas, and Scikit-learn for data analysis, modeling,
-and visualization. Highly motivated to turn data into meaningful insights that support data-driven decision
-making. 
+### Data Scientist | Machine Learning Enthusiast | NLP Practitioner
 
- ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mnabilp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnabilp/)
+[![GitHub](https://img.shields.io/badge/GitHub-mnabilp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnabilp)
 
-**Languages and Tools:**
-<p align="center">
-  <div align="center">
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg"></code>
-  <code><img height="40" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"></code>
+</div>
 
-  </div>
-</p>
+---
 
- ---
- 
-**Github Stats:**
+## 🧑‍💻 About Me
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mnabilp&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnabilp&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+I'm an **Informatics graduate** with a solid foundation in **Data Science and Machine Learning**. My journey started with academic research in NLP and classification algorithms, which grew into a full-time passion through an intensive **Data Science Bootcamp at Hacktiv8**.
 
-</p>
+I love turning raw data into meaningful insights that power data-driven decisions — whether that's through predictive modeling, NLP, or big data pipelines.
 
- ---
- 
-<p align="center">
-  <i>Let's connect!</i>
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-[LinkedIn]mnabilp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnabilp/)](https://www.linkedin.com/in/mnabilp/) 
-   
-  <p align="center">
-  </p>
-</p>
+```python
+nabil = {
+    "name"        : "Nabil Nufail",
+    "background"  : "Informatics (S.Kom)",
+    "focus"       : ["Data Science", "Machine Learning", "NLP"],
+    "bootcamp"    : "Hacktiv8 — Full-time Data Science",
+    "goal"        : "Turn data into actionable insights 🚀"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square&logo=python&logoColor=white)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 🔬 Areas of Expertise
+
+| Domain | Skills |
+|---|---|
+| 📊 **Data Analysis** | EDA, Statistical Analysis, Feature Engineering |
+| 🤖 **Machine Learning** | Classification, Regression, Clustering |
+| 🗣️ **NLP** | Sentiment Analysis, Text Classification |
+| 🐘 **Big Data** | PySpark, Distributed Computing |
+| ☁️ **Deployment** | REST APIs, AWS, Streamlit |
+
+---
+
+## 🚀 Featured Projects
+
+### 🛫 [Airlines Customer Satisfaction Analysis](https://github.com/mnabilp/Airlines-Customer-Satisfaction-Analysis)
+> End-to-end analysis of airline customer satisfaction data — uncovering key drivers of passenger experience using EDA and classification models.
+
+### 💻 [Computer Price Prediction](https://github.com/mnabilp/Computer-Price-Prediction)
+> Regression-based machine learning model to predict computer prices based on hardware specifications and market features.
+
+### 🌾 [Rice Type Classification with PySpark](https://github.com/mnabilp/pyspark-rice-type-classification)
+> Distributed machine learning pipeline using **PySpark** and Linear Regression for large-scale agricultural data classification.
+
+### 💳 [RiskBeacon — Credit Risk Probability](https://github.com/mnabilp/RiskBeacon-credit-risk-probability)
+> Credit risk scoring model that estimates default probability using machine learning techniques for financial risk assessment.
+
+### 🌐 [REST API Deployment](https://github.com/mnabilp/restapi)
+> Implementation and deployment of a production-ready REST API built with Python.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnabilp&count_private=true&show_icons=true&theme=tokyonight&line_height=33)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnabilp&count_private=true&hide=html,scss,,ejs&theme=tokyonight&line_height=10&layout=compact)
+
+</div>
+
+---
+
+## 📚 Currently Exploring
+
+- 🧠 Deep Learning architectures (LSTMs, Transformers)
+- 🔁 MLOps & model deployment pipelines
+- 📡 Real-time data streaming & analytics
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something data-driven together!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnabilp/)
+
+</div>
